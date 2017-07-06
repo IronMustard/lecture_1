@@ -1,1 +1,1 @@
-print ("hello word from pycharm")
+print ("hello word from github")
